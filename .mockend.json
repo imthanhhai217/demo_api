@@ -6,7 +6,7 @@
     "title": {
       "loremWords": {
         "minLength": 5,
-        "maxLength": 20
+        "maxLength": 10
       }
     },
     "body": {
